@@ -7,8 +7,8 @@
 ![Field](https://img.shields.io/badge/Field-Physics--Informed%20ML-purple)
 ![License](https://img.shields.io/badge/License-Academic-yellow)
 
-> **Course:** Machine Learning for Robotics — Faculty of Control Systems and Robotics, ITMO University
-> **Author:** Umer Ahmed Baig Mughal — MSc Robotics and Artificial Intelligence
+> **Course:** Machine Learning for Robotics — Faculty of Control Systems and Robotics, ITMO University <br>
+> **Author:** Umer Ahmed Baig Mughal — MSc Robotics and Artificial Intelligence <br>
 > **Topic:** PINNs · ODE Solving · ODE Discovery · Physics Constraints · Quadrotor Dynamics · Dummy Data Regularisation · Learnable Physical Parameters
 
 ---
@@ -747,7 +747,7 @@ All packages are pre-installed in Google Colab. The notebook is designed to run 
 ## Author
 
 **Umer Ahmed Baig Mughal**
-Master's in Robotics and Artificial Intelligence
+Master's in Robotics and Artificial Intelligence <br>
 Specialization: Machine Learning · Computer Vision · Human-Robot Interaction · Autonomous Systems · Robotic Motion Control
 
 ---
