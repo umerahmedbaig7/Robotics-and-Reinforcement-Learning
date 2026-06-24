@@ -1,0 +1,2 @@
+# Robotics-and-Reinforcement-Learning
+MSc Robotics &amp; AI projects from ITMO University covering Machine Learning, Deep Learning, Reinforcement Learning, &amp; Data-Driven Robotics. Includes SVD, PINNs, ODE discovery, Physics-Informed Learning, Deep RL (DQN, PPO, GAE), sparse reward shaping, autonomous control, robot learning, &amp; robot control tasks using PyTorch, Gymnasium, Stable-Baselines3
