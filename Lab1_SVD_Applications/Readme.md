@@ -822,7 +822,7 @@ Master's in Robotics and Artificial Intelligence <br>
 
 ## License
 
-This project is intended for **academic and research use**. It was developed as part of the *Data-Driven Methods* course within the MSc Robotics and Artificial Intelligence program at ITMO University. Redistribution, modification, and use in derivative academic work are permitted with appropriate attribution to the original author.
+This project is intended for **academic and research use**. It was developed as part of the *Machine Learning for Robotics* course within the MSc Robotics and Artificial Intelligence program at ITMO University. Redistribution, modification, and use in derivative academic work are permitted with appropriate attribution to the original author.
 
 ---
 
