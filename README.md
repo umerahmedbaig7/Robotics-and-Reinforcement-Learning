@@ -403,12 +403,12 @@ Env: MountainCar-v0 (DQN/shaping/curriculum) / MountainCarContinuous-v0 (PPO)
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                     ROBOTICS AND REINFORCEMENT LEARNING — PROGRESSION                            ║
 ╠══════════════════╦═══════════════════╦═══════════════════╦═══════════════════╦═══════════════════╣
-║  🔵 LAB 1       ║  🟠 LAB 2         ║  🟣 LAB 3         ║  🟢 LAB 4         ║  🔴 LAB 5        ║
-║  SVD &           ║  Physics-         ║  Value- &          ║  Advanced         ║  Sparse          ║
-║  Matrix Decomp.  ║  Informed NNs &   ║  Policy-Based RL   ║  Policy           ║  Reward          ║
-║                  ║  ODE Discovery    ║  (DQN + PG)        ║  Optimisation     ║  Strategies      ║
-║                  ║                   ║                    ║  (PPO + GAE + A-C)║  (Shaping,       ║
-║                  ║                   ║                    ║                   ║  Curriculum)     ║
+║  🔵 LAB 1 🔵    ║  🟠 LAB 2 🟠     ║  🟣 LAB 3 🟣     ║  🟢 LAB 4 🟢     ║  🔴 LAB 5 🔴     ║
+║  SVD &           ║  Physics-         ║  Value- &         ║  Advanced         ║  Sparse           ║
+║  Matrix Decomp.  ║  Informed NNs &   ║  Policy-Based RL  ║  Policy           ║  Reward           ║
+║                  ║  ODE Discovery    ║  (DQN + PG)       ║  Optimisation     ║  Strategies       ║
+║                  ║                   ║                   ║  (PPO + GAE + A-C)║  (Shaping,        ║
+║                  ║                   ║                   ║                   ║  Curriculum)      ║
 ╠══════════════════╩═══════════════════╩═══════════════════╩═══════════════════╩═══════════════════╣
 ║                  Increasing complexity · Closer to real robotics deployment                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
